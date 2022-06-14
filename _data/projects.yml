@@ -1,13 +1,12 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: ToDo List Application
+  description: Implemented front-end design techniques to create a positive user experience.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Back-End of a Quiz Game
+  description: Allowed user to answer questions displayed in a multiple choice format and submit their choices at the end to see how many they answered correctly. 
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: FiveThirtyEight-style MPI Parallel Election Predictor
+  description: Integrated MPI parallelization into serial C code to create a parallel election predictor based on polling data and the accuracy of the polls. Used Monte Carlo simulation to calculate error rates and predict a winner from input data.
 
-- name: Project 4
-  description: A few sentences describing your project.
+

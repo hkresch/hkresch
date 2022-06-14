@@ -1,7 +1,7 @@
 ---
-title: Your Website
-author: Your Name Here
-description: "A quick website description"
+title: Haley Kresch
+author: Haley Kresch
+description: "Associate Software Developer"
 layout: default
 permalink: /
 ---

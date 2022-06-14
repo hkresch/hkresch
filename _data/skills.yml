@@ -1,36 +1,36 @@
-header: Say something about what you're good at
+header: I am a dedicated and hard-working student and programmer. 
 
-subheader: Give some more context
+subheader: I'm eager to learn new tech stacks and build on the languages I already know. 
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: High Quality Code
+    description: Reducing technical debt from the start by making code reliable, secure and readable.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Communication
+    description: Approachable for questions and always ready to share updates and progress when available.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Innovative and Design-Oriented
+    description: Consistently trying new designs and forward-thinking approaches. Experience with CSS and HTML to create visually appealing designs.
 
 #If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+# certifications:
+#   - name: Certification 1
+#     topics:
+#       - Topic 1A
+#       - Topic 1B
+#       - Topic 1C
+#       - Topic 1D
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
+#   - name: Certification 2
+#     topics:
+#       - Topic 2A
+#       - Topic 2B
+#       - Topic 2C
+#       - Topic 2D
 
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+#   - name: Certification 3
+#     topics:
+#       - Topic 3A
+#       - Topic 3B
+#       - Topic 3C
+#       - Topic 3D
