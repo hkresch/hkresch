@@ -9,4 +9,6 @@
 - name: FiveThirtyEight-style MPI Parallel Election Predictor
   description: Integrated MPI parallelization into serial C code to create a parallel election predictor based on polling data and the accuracy of the polls. Used Monte Carlo simulation to calculate error rates and predict a winner from input data.
 
+- name: TV-Show Interactive GRANDStack Application
+  description: Created a dynamic website where users can rate TV shows and see which of their friends are using the application. TV show recommendations are generated using Neo4j Cypher queries on the backend based on the users inputted TV show preferences. The frontend uses React and Ant Design.
 
